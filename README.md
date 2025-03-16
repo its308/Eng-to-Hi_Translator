@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # Translator Notebook
 
 This repository contains a Jupyter Notebook, `Translator.ipynb`, which demonstrates a text translation pipeline using state-of-the-art NLP models. The notebook guides you through loading a pre-trained translation model, processing input text, and generating translated output interactively.
